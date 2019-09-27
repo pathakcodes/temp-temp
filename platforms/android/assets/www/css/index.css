@@ -1,0 +1,14 @@
+#exploreView{
+	visibility: hidden;
+}
+
+#shopView{
+	visibility: hidden;
+}
+
+#recommendedStores{
+	visibility: hidden;
+	position: absolute;
+	width: 95%;
+	top:12%;
+}
